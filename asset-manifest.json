@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wab-web/static/css/main.9be6bfc5.css",
+    "main.js": "/wab-web/static/js/main.01acadff.js",
+    "index.html": "/wab-web/index.html",
+    "main.9be6bfc5.css.map": "/wab-web/static/css/main.9be6bfc5.css.map",
+    "main.01acadff.js.map": "/wab-web/static/js/main.01acadff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9be6bfc5.css",
+    "static/js/main.01acadff.js"
+  ]
+}
